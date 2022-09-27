@@ -1,6 +1,6 @@
  Hi there!👋
  
-- 🔭 Extremely passionate about Software Development and Systems Design.
+- 🔭 Extremely passionate about Software Development.
 - 🌱 I’m currently learning ..... too many things to count XD
 - 💬 Ask me about literally anything you want. ( Except data science lmao )
 - 📫 Reach out on lkrajath22@gmail.com
