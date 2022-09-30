@@ -1,7 +1,9 @@
  Hi there!👋
+ <h1>Rajat Here</h1>
  
-- 🔭 Extremely passionate about Software Development.
-- 🌱 I’m currently learning ..... too many things to count XD
+- 🔭 Extremely passionate about Software Development and literally everythi.
+- 🌱 AWS and Kubernetes Enthusiast.
+- 🌈 Drool for Solution Architecture
 - 💬 Ask me about literally anything you want. ( Except data science lmao )
 - 📫 Reach out on lkrajath22@gmail.com
 - ⚡ Fun Fact: I'm married to Node JS.
