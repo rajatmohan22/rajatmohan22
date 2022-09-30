@@ -1,7 +1,7 @@
  Hi there!👋
  <h1>Rajat</h1>
  
-- 🔭 Extremely passionate about Software Development and literally everythi.
+- 🔭 Extremely passionate about Software Development and Project Management.
 - 🌱 AWS and Kubernetes Enthusiast.
 - 💬 Ask me about literally anything you want. ( Except data science lmao )
 - 📫 Reach out on lkrajath22@gmail.com
