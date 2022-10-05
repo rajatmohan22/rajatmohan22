@@ -3,11 +3,9 @@
  
 - 🔭 Extremely passionate about Software Development and Project Management.
 - 🌱 AWS and Kubernetes Enthusiast.
+- ⚡ I am obsessed with building effecient software that can work in robust situations.
 - 💬 Ask me about literally anything you want. ( Except data science lmao )
 - 📫 Reach out on lkrajath22@gmail.com
-- ⚡ Fun Fact: I'm married to Node JS.
-
-
 
 
 <p align="center">
