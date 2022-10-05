@@ -1,5 +1,5 @@
- Hi there!👋
- <h1>Rajat</h1>
+
+<h1>Hi there! <span class="wave">Hi There, Rajat Here👋</span></h1>
  
 - 🔭 Extremely passionate about Software Development and Project Management.
 - 🌱 AWS and Kubernetes Enthusiast.
@@ -8,8 +8,10 @@
 - ⚡ Fun Fact: I'm married to Node JS.
 
 
+
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,aws,react,java,python,ts,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=git,js,aws,react,nodejs,java,python,ts,c,cpp,docker,kubernetes" />
   </a>
 </p>
